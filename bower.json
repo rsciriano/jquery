@@ -7,5 +7,12 @@
     "component"
   ],
   "main": "jquery.js",
+   "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "src"
+  ],
   "license": "MIT"
 }
